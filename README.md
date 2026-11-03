@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### This is another heading
+
+hello this is new text.  
+press space twice for a new line
+
 <!--
 **ssalomonwong-alt/ssalomonwong-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
